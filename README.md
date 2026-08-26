@@ -40,8 +40,20 @@ Optical Mineralogy: Web-scraped and curated from the University of Granada Miner
 
 Thermodynamics: Standard state properties and Maier-Kelly heat capacity coefficients based on published scientific literature.
 
-
 💻 Installation & Local Usage
 
 
 Clone the repository:git clone https://github.com/your-username/MinGeoChem.gitcd MinGeoChem
+
+Install the required packages: pip install -r requirements.txt
+
+Run the Streamlit app: streamlit run app.py
+
+
+
+👤 Author
+
+
+Ernesto Álvarez - Geologist & Data Scientist
+
+
